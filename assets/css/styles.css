@@ -30,7 +30,7 @@ h1 {
   margin: 0;
   padding: 0;
   border: 0;
-  background-image: url(/assets/img/fondo/foto\ cuadrado.jpg);
+  background-image: url(../img/fondo/foto\ cuadrado.jpg);
   background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
@@ -43,7 +43,7 @@ h1 {
   margin: 0;
   padding: 0;
   border: 0;
-  background-image: url(/assets/img/fondo/fondo\ 3.jpg);
+  background-image: url(../img/fondo/fondo\ 3.jpg);
   background-size: cover;
   background-position: center top;
   width: 100%;
@@ -109,7 +109,7 @@ p {
   margin: 25px;
   padding: 25px;
   border: 25px solid;
-  background-image: url(/assets/img/fondo/flores.jpg);
+  background-image: url(../img/fondo/flores.jpg);
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -124,7 +124,7 @@ p {
   margin: 25px;
   padding: 25px;
   border: 25px solid; 
-  background-image: url(/assets/img/fondo/fondo\ 1.jpg);
+  background-image: url(../img/fondo/fondo\ 1.jpg);
   background-size: contain;
   background-repeat: no-repeat;
 }

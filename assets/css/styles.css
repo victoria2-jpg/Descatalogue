@@ -1,0 +1,150 @@
+head {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-color:#605431;
+}
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-color:#605431 ;
+}
+h1 {
+  width: 100%;
+  height: 60px;
+  background-color:#605431 ;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  color: #3E0808;
+  font-family: "Inknut Antiqua", serif;
+  font-size: 45px;
+  text-align: center;
+  line-height: 60px;
+}
+#intro {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-image: url(/assets/img/fondo/foto\ cuadrado.jpg);
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  width: 100%;
+  max-width: 2000px;
+  height: 500px;
+  max-height: 500px;
+}
+#shopping {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-image: url(/assets/img/fondo/fondo\ 3.jpg);
+  background-size: cover;
+  background-position: center top;
+  width: 100%;
+  height: 100%;
+}
+
+article {
+  margin: 25px;
+  padding: 0;
+  border: 0;
+}
+h2 {
+  font-size: 15px;
+  font-family: "Inknut Antiqua", serif;
+  accent-color: #700220;
+  color:#3E0808;
+  text-decoration: underline#3E0808;
+}
+menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    margin: 0;
+    padding: 20px;
+}
+h3 {
+  color: #cb5f14;
+  font-family: "Inknut Antiqua", serif;
+  font-size: 55px;
+  text-align: center;
+  margin: 15px;
+  padding: 5px;
+}
+table {
+     width: 100%;
+    border-spacing: 60px 10px;
+}
+thead {
+  width: 15px;
+  height: 15px;
+}
+tbody {
+  color: #3E0808;
+  font-family: "Bricolage Grotesque", sans-serif;
+  background-color: #bd99a2;
+} 
+tfoot {
+  color: #34162d;
+  font-family: "Bricolage Grotesque", serif;
+  background-color: #605431;
+}
+p {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-size: 30px;
+  margin: 60px;
+  padding: 0px;
+  border: 0px;
+  color:#cb5f14;
+}
+#metamorfosis {
+  color:#3E0808;
+  margin: 25px;
+  padding: 25px;
+  border: 25px solid;
+  background-image: url(/assets/img/fondo/flores.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+#anuncio {
+  color: #700220;
+  font-family: "Inknut Antiqua", serif;
+  font-size: 40px;
+  text-align: center;
+}
+#magia {
+  color:#3E0808;
+  margin: 25px;
+  padding: 25px;
+  border: 25px solid; 
+  background-image: url(/assets/img/fondo/fondo\ 1.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+#pregunta {
+  color: #3E0808;
+  font-family: "Inknut Antiqua", serif;
+  font-size: 40px;
+}
+#lema {
+  font-family: "Uncial Antiqua", system-ui;
+  font-size: 55px;
+  color: #4e2244;
+  text-align: center;
+}
+#fresita inicio {
+  object-fit: contain;
+  position: fixed;
+    bottom: -300px;
+    right: -150px;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1000;
+}

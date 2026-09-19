@@ -135,12 +135,11 @@ p {
   color: #4e2244;
   text-align: center;
 }
-#fresita-inicio {
-  object-fit: contain;
+  #fresita-inicio {
   position: fixed;
-    bottom: -300px;
-    right: -150px;
-    top: 50%;
-    transform: translateY(-50%);
-    z-index: 1000;
+  right: 30px;
+  bottom: 30px;
+  z-index: 1000;
+  margin: 0;
+  padding: 0;
 }
